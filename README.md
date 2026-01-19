@@ -12,10 +12,10 @@ Solutions to LeetCode problems with clean code, detailed explanations, and compl
 
 | Difficulty | Count |
 |------------|-------|
-| **Easy** | 12 |
-| **Medium** | 16 |
+| **Easy** | 15 |
+| **Medium** | 18 |
 | **Hard** | 1 |
-| **Total** | **29** |
+| **Total** | **34** |
 
 ---
 
@@ -96,15 +96,15 @@ Solutions to LeetCode problems with clean code, detailed explanations, and compl
 ---
 
 ## 🔧 Repository Structure
-
+```
 ├── Problem Number. Problem Name/
 │ ├── README.md # Approach, complexity, explanation
 │ └── python/
 │ └── solution.py # Clean Python implementation
 ├── README.md # This file
 └── .gitignore
-
+```
 ---
 
-*Last Updated: August 2025 | Part of MS Data Science Journey at Johns Hopkins University*
+*Last Updated: December 2025 | Part of MS Data Science Journey at Johns Hopkins University*
 
